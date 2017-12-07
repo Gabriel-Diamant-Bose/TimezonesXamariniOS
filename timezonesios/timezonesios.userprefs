@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{AC63B152-BA22-4554-BE73-2B98FA30E21C}|Default">
+  <MonoDevelop.Ide.ItemProperties.timezonesios PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DCDB09EF-5C0C-4D2C-8648-E64F7E1418CC" automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="timezonesios/FirstViewController.cs">
+    <Files>
+      <File FileName="timezonesios/FirstViewController.cs" Line="88" Column="87" />
+      <File FileName="timezonesios/FirstViewController.designer.cs" Line="18" Column="25" />
+      <File FileName="timezonesios/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

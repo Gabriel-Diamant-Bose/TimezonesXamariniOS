@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timezonesios", "timezonesios\timezonesios.csproj", "{AC63B152-BA22-4554-BE73-2B98FA30E21C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC63B152-BA22-4554-BE73-2B98FA30E21C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AC63B152-BA22-4554-BE73-2B98FA30E21C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AC63B152-BA22-4554-BE73-2B98FA30E21C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AC63B152-BA22-4554-BE73-2B98FA30E21C}.Release|iPhone.Build.0 = Release|iPhone
+		{AC63B152-BA22-4554-BE73-2B98FA30E21C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AC63B152-BA22-4554-BE73-2B98FA30E21C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{AC63B152-BA22-4554-BE73-2B98FA30E21C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AC63B152-BA22-4554-BE73-2B98FA30E21C}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
